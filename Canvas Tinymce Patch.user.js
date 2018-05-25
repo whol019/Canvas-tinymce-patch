@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Canvas Tinymce Patch
 // @author      Wen
-// @description patch tinymce in Canvas to display iframe as an image
+// @description example script to patch tinymce settings and add external plguin in Canvas richtext editor
 // @include     https://*/courses/*/edit
 // @version     0.2
 // @grant       none
